@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989397045815",
+    "project_id": "ejemplologin-8a9da",
+    "storage_bucket": "ejemplologin-8a9da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989397045815:android:68e977f0d4256e46d765b2",
+        "android_client_info": {
+          "package_name": "ruben.gutierrez.practicaautenticaciongutierrezr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB6LNAPRywjgV9w_vsOZx3EeOIbug3di0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
